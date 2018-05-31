@@ -1,0 +1,1 @@
+include ':example', ':panos-annotations', ':panos-compiler', ':panos-core', ':panos-ec'
